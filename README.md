@@ -1,3 +1,3 @@
 ﻿# carrito-compras
-Programa que permite crear, asignar y gestionar tareas, construido con spring boot, javascript, html y bootstrap, con una autenticación y autorización a través de Spring Security y JWT, adicional con manejo de excepciones y pruebas unitarias a la capa de servicios y repositorio. Desplegado en Heroku.
+Api Rest de carrito de compras que permite simular el flujo completo de la interacción de usuarios, productos y compras. Cuenta con una documentación en Swagger y desplegado en Heroku.  
 Link de la app: https://app-carritocompra.herokuapp.com/
